@@ -44,31 +44,21 @@ Rather than bombarding users with immediate dense text, Mana introduces intentio
 Mana provides temporary conversational "scaffolds"—guiding questions that help users reframe negative cognitive distortions without doing the emotional work *for* them.
 
 ---
-
 ## 🏗️ System Architecture
 
-┌────────────────┐
-│ 📝 User Input                 │
-│    (Journaling & Reflection   │
-└──────────────────────────┘
-                    │
-                    ▼
-┌──────────────────────────┐
-│ 🧠 Cognitive Reframing        │
-│    & Positive Friction Engine │
-└────────────────┬─────────┘
-                    │
-                    ▼
-┌──────────────────────────────────┐
-│ ⚡ Gemini API Engine                   │
-│    (Empathetic Sentiment Synthesis)    │
-└───────────────────┬──────────────┘
-                    │
-                    ▼
-┌──────────────────────────────────┐
-│ 🌱 Scaffolded Reflection               │
-│    & Mindful Feedback                  │
-└──────────────────────────────────┘
+```mermaid
+graph TD
+    A["📝 <b>User Input</b><br/><i>(Journaling & Reflection)</i>"] --> B["🧠 <b>Cognitive Reframing</b><br/><i>& Positive Friction Engine</i>"]
+    B --> C["⚡ <b>Gemini API Engine</b><br/><i>(Empathetic Sentiment Synthesis)</i>"]
+    C --> D["🌱 <b>Scaffolded Reflection</b><br/><i>& Mindful Feedback</i>"]
+
+    classDef default fill:#1f2937,stroke:#4b5563,stroke-width:2px,color:#fff;
+    classDef highlight fill:#312e81,stroke:#6366f1,stroke-width:2px,color:#fff;
+    class B highlight;
+```
+
+```
+
 
 
 
