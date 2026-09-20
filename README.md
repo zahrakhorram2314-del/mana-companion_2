@@ -47,28 +47,28 @@ Mana provides temporary conversational "scaffolds"—guiding questions that help
 
 ## 🏗️ System Architecture
 
-┌────────────────────────────────────────┐
-│ 📝 User Input                          │
-│    (Journaling & Reflection)           │
-└───────────────────┬────────────────────┘
+┌────────────────┐
+│ 📝 User Input                 │
+│    (Journaling & Reflection   │
+└──────────────────────────┘
                     │
                     ▼
-┌────────────────────────────────────────┐
-│ 🧠 Cognitive Reframing                 │
-│    & Positive Friction Engine          │
-└───────────────────┬────────────────────┘
+┌──────────────────────────┐
+│ 🧠 Cognitive Reframing        │
+│    & Positive Friction Engine │
+└────────────────┬─────────┘
                     │
                     ▼
-┌────────────────────────────────────────┐
+┌──────────────────────────────────┐
 │ ⚡ Gemini API Engine                   │
 │    (Empathetic Sentiment Synthesis)    │
-└───────────────────┬────────────────────┘
+└───────────────────┬──────────────┘
                     │
                     ▼
-┌────────────────────────────────────────┐
+┌──────────────────────────────────┐
 │ 🌱 Scaffolded Reflection               │
 │    & Mindful Feedback                  │
-└────────────────────────────────────────┘
+└──────────────────────────────────┘
 
 
 
@@ -87,4 +87,4 @@ Mana provides temporary conversational "scaffolds"—guiding questions that help
 *Psychology Student & Human-AI Interaction (HAI) Researcher*  
 Focused on Cognitive Load Reduction, Empathetic AI, and Ethical User Experience Design.
 
-📫 **Connect with me:** [LinkedIn Profile](https://linkedin.com) | [Read full Case Study on Medium](https://medium.com)
+📫 **Connect with me:** [LinkedIn Profile](https://www.linkedin.com/in/zahra-khorram-9a73a6423?utm_source=share_via&utm_content=profile&utm_medium=member_android) | [Read full Case Study on Medium](https://medium.com)
