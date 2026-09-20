@@ -64,18 +64,12 @@ graph TD
 
 
 ## 🚀 Technical Stack
-
-- **AI Engine:** Google Gemini API (Multi-turn conversational model)
-- **Deployment:** Google Cloud Run & Docker
-- **Backend & UI:** Python / Streamlit / FastAPI
-- **Data & Security:** Privacy-first user data handling
-
----
-
-## 👩‍💻 Author & Research Focus
-
-**Zahra Khorram**  
-*Psychology Student & Human-AI Interaction (HAI) Researcher*  
+​AI Engine: Google Gemini API (Multi-turn conversational model)
+​Deployment: Google Cloud Run & Docker
+​Backend & UI: Python / Streamlit / FastAPI
+​Data & Security: Privacy-first user data handling
+​👩‍💻 Author & Research Focus
+​Zahra Khorram
+Psychology Student & Human-AI Interaction (HAI) Researcher
 Focused on Cognitive Load Reduction, Empathetic AI, and Ethical User Experience Design.
-
-📫 **Connect with me:** [LinkedIn Profile](https://www.linkedin.com/in/zahra-khorram-9a73a6423?utm_source=share_via&utm_content=profile&utm_medium=member_android) | [Read full Case Study on Medium](https://medium.com)
+​📫 Connect with me: LinkedIn Profile https://www.linkedin.com/in/zahra-khorram-9a73a6423?utm_source=share_via&utm_content=profile&utm_medium=member_android | Read full Case Study on Medium
