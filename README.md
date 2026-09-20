@@ -58,12 +58,11 @@ graph TD
 ```
 
 
-```
+``
 
 
 
-
-# 🚀 Technical Stack
+## 🚀 Technical Stack
 ​AI Engine: Google Gemini API (Multi-turn conversational model)
 ​Deployment: Google Cloud Run & Docker
 ​Backend & UI: Python / Streamlit / FastAPI
