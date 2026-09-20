@@ -71,4 +71,5 @@ graph TD
 ​Zahra Khorram
 Psychology Student & Human-AI Interaction (HAI) Researcher
 Focused on Cognitive Load Reduction, Empathetic AI, and Ethical User Experience Design.
+
 ​📫 Connect with me: LinkedIn Profile https://www.linkedin.com/in/zahra-khorram-9a73a6423?utm_source=share_via&utm_content=profile&utm_medium=member_android | Read full Case Study on Medium
